@@ -5,8 +5,8 @@
 **Difficulty:** Easy  
 **Estimated time:** 20 min  
 **Room:** 1 of 31  
-**Points:** 0 / 80  
-**Date completed:**  
+**Points:** 80  
+**Date completed:** 10/25/26(MM/DD/YY) 
 
 ---
 
