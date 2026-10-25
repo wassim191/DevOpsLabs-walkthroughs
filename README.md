@@ -12,7 +12,8 @@ DevOpsLabs-walkthroughs/
 └── Roadmap/
     └── Paths/
         └── Linux Basics/
-            └── what is linux.md
+            └── 00-what-is-linux.md
+            └── 01-Listing Files with ls.md    
 ```
 
 ---
@@ -24,6 +25,7 @@ DevOpsLabs-walkthroughs/
 | Room | Link | Status | Notes |
 |------|------|--------|-------|
 | What is Linux? | [devopslabs.dev/room/linux-00-what-is-linux](https://devopslabs.dev/room/linux-00-what-is-linux) | Completed | Introduction to the Linux kernel, distributions, and why DevOps runs on Linux |
+| Listing Files with ls | [devopslabs.dev/room/linux-00-what-is-linux](https://devopslabs.dev/room/linux-01-listing-files) | Completed | See what is on a server: list directories, show hidden files, and sort by size or age with ls. |
 
 ---
 
